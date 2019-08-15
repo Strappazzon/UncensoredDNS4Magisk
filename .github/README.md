@@ -52,9 +52,11 @@ You can [download](https://github.com/Strappazzon/UncensoredDNS4Magisk/releases/
 
 ## Screenshots
 
-Installation                    | DNS Leak Test
-:-----------------------------:|:-----------------------------:
-![](./screenshots/Setup.png) | ![](./screenshots/DNSLeakTest.png)
+_(click an image to enlarge it)_
+
+Installation   | DNS Leak Test
+:-------------:|:-------------:
+![](https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/.github/screenshots/Setup.png) | ![](https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/.github/screenshots/DNSLeakTest.png)
 
 ## License
 
