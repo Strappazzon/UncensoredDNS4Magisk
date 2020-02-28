@@ -6,12 +6,12 @@
   <br>
 </h1>
 
-<h4 align="center">Makes your device use UncensoredDNS DNS Servers systemlessly.</h4>
+<h4 align="center">Make your device use UncensoredDNS DNS Servers systemlessly.</h4>
 
 <p align="center">
-  <a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">
-  <img src="https://img.shields.io/badge/Magisk-%3E=%2017-00AF9C.svg?style=for-the-badge&logo=magisk&logoColor=00AF9C" alt="Required version of Magisk">
-  </a>
+  <a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"><img alt="Magisk" src="https://img.shields.io/badge/Magisk-%3E=%2017-00AF9C.svg?style=flat-square&logo=magisk&logoColor=%2315a28b"></a>
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Strappazzon/UncensoredDNS4Magisk/total?color=%23fc5732&label=Downloads&logo=DocuSign&logoColor=%23ffffff&style=flat-square">
+  <a href="https://github.com/Strappazzon/UncensoredDNS4Magisk/releases/latest"><img alt="Latest Release" src="https://img.shields.io/github/v/release/Strappazzon/UncensoredDNS4Magisk?color=%23607d8b&include_prereleases&label=Latest%20Release&style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ This Magisk module will set your device's DNS servers to:
 
 - `91.239.100.100` [Anycast server](https://blog.uncensoreddns.org/dns-servers/) from multiple locations.
 
-### Warning
-
-Your ISP **may block** all requests if you use custom DNS servers.
+> ### :warning: Warning
+>
+> Your ISP **may block** all requests if you use custom DNS servers.
 
 ## Download
 
