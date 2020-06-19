@@ -30,7 +30,7 @@ This Magisk module will set your device's DNS servers to:
 
 * `91.239.100.100` [Anycast server](https://blog.uncensoreddns.org/dns-servers/) from multiple locations.
 
-> ### :warning: Warning
+> ### ⚠️ Warning
 >
 > Your ISP **may block** all requests if you use custom DNS servers.
 
@@ -56,7 +56,7 @@ _(click an image to enlarge it)_
 
 Installation   | DNS Leak Test
 :-------------:|:-------------:
-![](./images/screenshot_setup.png) | ![](./images/screenshot_test.png)
+<a href="https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/images/screenshot_setup.png"><img src="https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/images/screenshot_setup.png" alt="Installation Screenshot"></a> | <a href="https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/images/screenshot_test.png"><img src="https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/images/screenshot_test.png" alt="DNS Leak Test Screenshot"></a>
 
 ## License
 
