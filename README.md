@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://blog.uncensoreddns.org/static/images/favicon/apple-touch-icon.png" alt="UncensoredDNS"></a>
+  <img src="./images/logo.png" alt="UncensoredDNS">
   <br>
   UncensoredDNS4Magisk
   <br>
@@ -26,9 +26,9 @@
 
 This Magisk module will set your device's DNS servers to:
 
-- `89.233.43.71` Unicast server hosted at AS9167 in Copenhagen, Denmark.
+* `89.233.43.71` Unicast server hosted at AS9167 in Copenhagen, Denmark.
 
-- `91.239.100.100` [Anycast server](https://blog.uncensoreddns.org/dns-servers/) from multiple locations.
+* `91.239.100.100` [Anycast server](https://blog.uncensoreddns.org/dns-servers/) from multiple locations.
 
 > ### :warning: Warning
 >
@@ -56,7 +56,7 @@ _(click an image to enlarge it)_
 
 Installation   | DNS Leak Test
 :-------------:|:-------------:
-![](https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/.github/screenshots/Setup.png) | ![](https://raw.githubusercontent.com/Strappazzon/UncensoredDNS4Magisk/master/.github/screenshots/DNSLeakTest.png)
+![](./images/screenshot_setup.png) | ![](./images/screenshot_test.png)
 
 ## License
 
